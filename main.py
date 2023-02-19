@@ -1,4 +1,4 @@
-n = 12
+n = 15
 sieve = set(range(2, n+1))
 while sieve:
     prime = min(sieve)
